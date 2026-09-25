@@ -1,0 +1,8 @@
+# Robots.txt for Sanjeevani Multispeciality Hospital & Trauma Center
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /api/
+
+# Sitemap
+Sitemap: https://sanjeevanihospital.in/sitemap.xml

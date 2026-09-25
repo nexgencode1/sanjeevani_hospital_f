@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <!-- Home Page -->
+  <url>
+    <loc>https://sanjeevanihospital.in/</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://sanjeevanihospital.in/hospital-building.jpg</image:loc>
+      <image:title>संजीवनी हॉस्पिटल कौशाम्बी भवन | Sanjeevani Multispeciality Hospital Building</image:title>
+      <image:caption>Kaushambi Premier 24x7 Trauma Center &amp; Licensed Blood Bank</image:caption>
+    </image:image>
+  </url>
+
+  <!-- About Us Page -->
+  <url>
+    <loc>https://sanjeevanihospital.in/about</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Services & Departments Page -->
+  <url>
+    <loc>https://sanjeevanihospital.in/services</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+  </url>
+
+  <!-- Doctors & Specialists Page -->
+  <url>
+    <loc>https://sanjeevanihospital.in/doctors</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+  </url>
+
+  <!-- Doctor Appointment Booking Page -->
+  <url>
+    <loc>https://sanjeevanihospital.in/booking</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.90</priority>
+  </url>
+
+  <!-- Contact & Emergency Location Page -->
+  <url>
+    <loc>https://sanjeevanihospital.in/contact</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Hospital Facilities & Infrastructure Gallery Page -->
+  <url>
+    <loc>https://sanjeevanihospital.in/gallery</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+</urlset>
